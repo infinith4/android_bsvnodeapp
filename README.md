@@ -1,6 +1,3 @@
-# github-template-repository-android
-android template
-
 KVM is required to run this AVD.
 Your CPU does not support required features (VT-x or SVM).
 
